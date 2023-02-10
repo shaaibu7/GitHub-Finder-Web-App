@@ -30,7 +30,7 @@
 
 # 📖 Github Finder Web App <a name="about-project"></a>
 
-This project consumes the github API and renders the data of all github users on the UI..
+This project consumes the github API and renders the data of all github users on the UI by searching their usernames..
 
 ## 🛠 Built With <a name="built-with"></a>
 
