@@ -91,6 +91,8 @@ To run the project, execute the following command:
 
 ### Preview
 
+[Visit Live site](https://shaaibu7.github.io/GitHub-Finder-Web-App/src/)
+
 <!-- <img src="" alt="logo" width="140"  height="auto" /> -->
 <br/>
 
