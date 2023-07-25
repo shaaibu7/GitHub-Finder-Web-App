@@ -30,7 +30,8 @@
 
 # 📖 Github Finder Web App <a name="about-project"></a>
 
-This project consumes the github API and renders the data of all github users on the UI by searching their usernames..
+The GitHub User Explorer project is a powerful tool that taps into the vast GitHub API to bring you a seamless user search experience. Effortlessly enter a GitHub username, and witness a wealth of valuable information rendered right on the UI. Explore developers' profiles, repositories, contributions, and more, all in one place. Stay connected to the world of open-source development and discover talented developers with just a few clicks. The GitHub User Explorer simplifies your journey in navigating the GitHub ecosystem and offers valuable insights at your fingertips.
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
