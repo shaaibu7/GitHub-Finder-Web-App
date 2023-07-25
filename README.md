@@ -49,7 +49,8 @@ This project consumes the github API and renders the data of all github users on
 
 ### Key Features <a name="key-features"></a>
 
-- **Renders Covid-19 data dynamically.**
+- **Fetch github users by searching their names.**
+- **Users can search for any github user just by searching their usernames.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
